@@ -1,3 +1,5 @@
+Techpanda_Branch Name : Sholinallur branch is best branch espcially GenAI students  and it is avery pleasent and git is also
+Techpanda_Branch Name : Chennai 
 git add commands 
 
 for(int i=0;i<3;i++{
